@@ -3,7 +3,7 @@ This is special calculator that operate the paddy and sack operation
 
 --------------------------------------------------------------------------------------------------
 Event:                                                                                        
-      One day a business man came to by our paddy and show that the persion took calculate and
+      One day a business man came to buy our paddy and show that the persion took calculate and
      write something to get net and so on. Seeing this role i have got a idea thats why i    
      create this paddy calculator .                                                          
 --------------------------------------------------------------------------------------------------
